@@ -1,5 +1,8 @@
 # Solution to Kepler's Problem 
+# @thatsparrow 
 
 In classical mechanics, the Kepler problem is a special case of the two-body problem, in which the two bodies interact by a central force "F" that varies in strength as the inverse square of the distance "r" between them. The force may be either attractive or repulsive. The "problem" to be solved is to find the position or speed of the two bodies over time given their masses and initial positions and velocities.
 
+The solution in math can be found here: <https://en.wikipedia.org/wiki/Kepler_problem#Solution_of_the_Kepler_problem>
 
+The solution written in JavaScript can be found here: <https://jannbenjam.in/apps/kepler>
